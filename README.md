@@ -1,1 +1,2 @@
-# zombieclass29
+# aplasta-al-zombie-1
+solución del proyecto C29
